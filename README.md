@@ -1,6 +1,6 @@
 ## Accurate and Scalable Image Clustering Based on Sparse Representation of Camera Fingerprint
 
-### Transactions of Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
+### Transactions on Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
 
 ### [Quoc-Tin Phan](https://quoctin.github.io), Giulia Boato, Francesco G. B. De Natale
 
@@ -11,9 +11,7 @@ University of Trento, Italy
 ### Abstract
 In this paper, we propose a method to cluster images with respect to their acquisition camera based on noise residuals. Given a set of noise residuals, our method first finds their sparse representation and perform clustering afterwards. Our method is accurate and scalable, owning potential for real-world applications.
 
-At the moment, this repo contains the code of clustering on small and medium-size datasets (the method SSC-NC in our paper). 
-
-The large-scale method LS-SSC will be made available in the future.
+At the moment, this repo contains the code of clustering on small and medium-size datasets (the method SSC-NC in our paper). The large-scale method LS-SSC will be made available in the future.
 
 ### 1) Prerequisites
 First clone this repo:
