@@ -1,8 +1,8 @@
 ## Accurate and Scalable Image Clustering Based on Sparse Representation of Camera Fingerprint
 
-###In Transactions of Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
+### In Transactions of Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
 
-###[Quoc-Tin Phan](https://quoctin.github.io), Giulia Boato, Francesco G. B. De Natale
+### [Quoc-Tin Phan](https://quoctin.github.io), Giulia Boato, Francesco G. B. De Natale
 
 MMLab, DISI
 University of Trento, Italy
@@ -18,7 +18,7 @@ The large-scale method LS-SSC will be made available in the future.
 ### 1) Prerequisites
 First clone this repo:
 
-```git clone ```
+```git clone --single-branch https://github.com/quoctin/residual-clustering.git```
 
 Navigate to **/mex** and execute the following command in Matlab: 
 
