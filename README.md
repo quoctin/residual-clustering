@@ -1,6 +1,6 @@
 ## Accurate and Scalable Image Clustering Based on Sparse Representation of Camera Fingerprint
 
-### In Transactions of Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
+### Transactions of Information Forensics and Security, 2019. [[paper]](https://arxiv.org/abs/1810.07945)
 
 ### [Quoc-Tin Phan](https://quoctin.github.io), Giulia Boato, Francesco G. B. De Natale
 

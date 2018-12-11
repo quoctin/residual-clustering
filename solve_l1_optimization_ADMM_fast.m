@@ -4,7 +4,7 @@
 
 function Z = solve_l1_optimization_ADMM_fast(X, lambda)
 %%  This function solves the optimization problem:
-%   min lambda*||Z||_1 + ||XZ-Z||^2_2 s.t. diag(Z) = 0, Z >= 0 
+%   min lambda*||Z||_1 + ||XZ-X||^2_F s.t. diag(Z) = 0, Z >= 0 
 %   Input:
 %       X: dxn matrix, d: the number of features, n: number of examples 
 %       lambda: regularization parameter
