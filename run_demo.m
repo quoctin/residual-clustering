@@ -4,6 +4,7 @@
 
 clear
 close all
+clc
 
 addpath('data', 'kmeans', 'mex');
 
